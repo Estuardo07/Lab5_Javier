@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="iniciarEncuesta">Iniciar \nEncuesta</string>
+    <string name="agregarPregunta">Agregar Pregunta</string>
+    <string name="pregunta1">¿Tiene algún comentario o sugerencia?</string>
+    <string name="ingresarRespuesta">Ingrese su respuesta</string>
+    <string name="siguiente">SIGUIENTE</string>
+    <string name="pregunta2">¿Qué le pareció nuestro servicio?</string>
+    <string name="resultados">Resultados</string>
+    <string name="rating">Rating:</string>
+    <string name="encuestas">Encuestas:</string>
+    <string name="encuestas">Encuestas:</string>
+    <string name="nuevaEncuesta">Nueva Encuesta</string>
+    <string name="verRespuestas">Ver Respuestas</string>
+    <string name="surveyApp">Survey App</string>
+</resources>
